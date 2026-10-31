@@ -1,1 +1,1 @@
-# luci-theme-argon1
+适用于openwrt 25.12版本
